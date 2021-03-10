@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://greece24news.vercel.app/"
+baseURL = "https://w3-sand.vercel.app"
 languageCode = "en-us"
 title = "Four Lost Cities"
 theme = "influencer-hugo"
